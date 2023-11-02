@@ -20,7 +20,7 @@ Message Logger is an MVC application where users can create and log into an acco
 
 ## How to reach me
 * Send me an email at seth.grinstead3299@gmail.com
-* Connect with me on [LinkedIn](www.linkedin.com/in/seth-grinstead)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/seth-grinstead)
 
 
 
